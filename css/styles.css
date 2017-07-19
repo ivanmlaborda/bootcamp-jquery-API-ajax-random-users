@@ -1,0 +1,11 @@
+    body:first-letteer {
+      text-transform: capitalize;
+    }
+
+    .email {
+      text-transform: lowercase;
+    }
+    .container  { margin-top:50px; }
+    .full-name, .gender, .address {  text-transform: capitalize; }
+    .profile-image { margin:10px; }
+    .nationality i { margin-right: 5px; }
